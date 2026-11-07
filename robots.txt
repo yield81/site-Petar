@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /blagodaria.html
-
-Sitemap: https://kamchiaretreat.bg/sitemap.xml
