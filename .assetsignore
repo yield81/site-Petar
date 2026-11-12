@@ -1,0 +1,12 @@
+# Файлове, които не се качват като част от сайта.
+
+README.md
+PHOTOS.md
+netlify.toml
+wrangler.jsonc
+
+# Служебни, не се сервират публично.
+.git
+.github
+.assetsignore
+_headers
