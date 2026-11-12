@@ -9,4 +9,5 @@ wrangler.jsonc
 .git
 .github
 .assetsignore
-_headers
+
+# _headers НЕ се слага тук: Cloudflare го чете и прилага, вместо да го сервира.
